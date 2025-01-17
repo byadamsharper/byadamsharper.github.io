@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Assignment 1b/title>
+  </head>
+  <body>
+    <p>•I had the opportunity of completing the Tracing Internet Traffic activity. While completing this activity, I wasn’t shocked at all to learn about my internet connection problems. My ISP is Spectrum and when it comes to Spectrum, there are always issues with my internet connection. Either my internet is slow, pages will not pop up fully, or the internet randomly cuts out. I work from home, which causes several issues throughout the week, while handling patient care. So when I saw the list of activities, I was immediately drawn to the project of tracing my internet activity. I am a very curious person, and I had to get to the bottom of the route cause and why.  When the traceroute was complete, I instantly saw where the problem lies. My domain did not locate my router. The first line represents my home router, in which in did. However, the second line is to represent your ISP, in which it did not display, instead stated “Requested timed out.”. In several columns, a (*) was displayed, which further indicated packet loss. I had a total of 30 hops, and of those 30 hops, 22 were “Request timed out.  After carefully analyzing and doing more research on the traceroute, this helped me to understand my internet connection speed and why there is always an outage when it comes to my ISP. After completing this activity, I did an internet speed test. My results showed my download speed is 98 Mbps and upload is 104Mbps. I am supposed to receive 400 Mbps, as I have several devices that are being used consistently on a shared network. I also pay extra to have those speeds available, due to my current career field. I’ve come to the conclusion spectrum is not a reliable ISP.  I plan to complete a tracing weekly to keep track of how well  the path traffic takes to reach a  website. I will also periodically reach out to my ISP for routine tests of the equipment as well. This activity has taught me a lot.</p>
+  </body>
+</html>
